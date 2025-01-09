@@ -27,6 +27,7 @@
 ## Sub part of Machine Learning
 ![part_of_machine_learning](IMG/part_of_machine_learning.jpg)
 
+<img src="IMG/part_of_machine_learning.jpg" alt="part_of_machine_learning" width="400">
 ## Deep Learning
 - In Deep Learning, an artificial neuron is created which will follow the functions of the biological neurons
 ## Natural Language Processing
