@@ -22,3 +22,9 @@
 
 ## Unsupervised Learning
 - Unsupervised Learning is where you only input data (x) and no corresponding output variables. Derive some structure or pattern from the "Unlabeled Data" by just looking at the relationship between data themselves. There are few methods to check the accuracy of these models.
+<img src="IMG/Unsupervised-Learning.jpg" alt="Unsupervised-Learning" width= 200px>
+
+## Reinforcement Learning
+- It is about suitable action to miximize rewards in particular situation. It is employed by various software and machines to find the best behaviour or path it should take in a specific situation. 
+- Reinforcement Learning differs from the supervised learning in a way that in supervied learning the training data has the answer key with it. So the model is trained with the correct answer itself. 
+- Wheres in rainforcement learning, there is no answer but the rainforcement agent decides what to do to perform the given task. 
