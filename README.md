@@ -32,3 +32,14 @@
     - Data type
     1. Primitive type
     2. Compound type
+
+# Day 05
+
+- Variables
+- Access List Values
+- Access Dictionary Values
+- Add element to list
+- Remove element from the list
+- Add multiple values to the list
+- If condition
+- Loops
