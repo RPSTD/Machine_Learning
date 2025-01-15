@@ -16,6 +16,7 @@
 # Metrix
 - Vector, Row Vector and Scalar
 <img src="IMG/Vector-matrix.png">
+
 - Vector: If the columb count is 1, then that is vector.
 - Row Vector: If the row count is 1, then that is row vector.
 - Null metrix, Diogonal matrix, Identity matrix
