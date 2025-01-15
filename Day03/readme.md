@@ -10,7 +10,7 @@
 
 ## Biological Neuron Vs Artificial Neurons
 
-<img src="IMG/STRUCTURE-OF-NEURON.png" alt="Biological-Neuron-versus-Artificial-Neural-Network" width= 300px>
+<img src="IMG/Biological-Neuron-versus-Artificial-Neural-Network.png" alt="Biological-Neuron-versus-Artificial-Neural-Network" width= 300px>
 
 ## Linear Algebra
 # Metrix
