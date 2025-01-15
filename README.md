@@ -16,3 +16,19 @@
 - Overtraining/Undertaining
 - Unsupervised Learning
 
+# Day 03
+- Deeplearning overview
+- Biological Neuron Vs Artificial Neurons concept
+- Linear Algebra
+    - Matrixs
+
+# Day 04 
+- Learning Python
+- Jupitor Notebook
+- Python
+    - Basic mathematical operations
+    - Relational operations
+    - Logical operations
+    - Data type
+    1. Primitive type
+    2. Compound type
