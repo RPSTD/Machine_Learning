@@ -43,3 +43,11 @@
 - Add multiple values to the list
 - If condition
 - Loops
+
+# Day 07
+
+- Import  Data Frames
+- collect values from dataframe
+- remove data from dataframe
+- collab dataframes together
+
