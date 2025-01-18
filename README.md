@@ -44,6 +44,16 @@
 - If condition
 - Loops
 
+# Day 06
+- While loop
+- Functions
+- Array
+- Using numpy lib calculate sum(), min(), mean()
+- Matrix addition, subtraction, subtraction
+- Matrix multiplication
+    1. Hadamart product
+    2. Original mulification( dot() )
+
 # Day 07
 
 - Import  Data Frames
