@@ -61,3 +61,16 @@
 - remove data from dataframe
 - collab dataframes together
 
+# Day 08 
+These are the topics discuss in here. 
+- value count
+- get the values in to list
+- reorder the values of the charts using reindex function
+- change the column orders
+- change the column names
+- usage of matplotlib library
+ - simple graph
+ - label the columns and row with title
+ - scatterplot representation
+ - heatmap representation
+
