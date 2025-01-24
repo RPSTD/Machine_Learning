@@ -74,3 +74,13 @@ These are the topics discuss in here.
  - scatterplot representation
  - heatmap representation
 
+# Day 09 
+Statistical Summery 
+- mean of the data
+- variance of the data
+- median of the data
+- five number summery of data
+- mode of data
+- covariance of two numerical variables
+
+
