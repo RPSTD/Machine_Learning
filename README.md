@@ -83,4 +83,10 @@ Statistical Summery
 - mode of data
 - covariance of two numerical variables
 
+# Day 10 
+Algorithm approach in ML
+- Linear Regression.
+- Simple Linear Regression
+- Finding Solution for this
+- Multiple Linear Regression
 
